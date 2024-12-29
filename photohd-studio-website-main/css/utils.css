@@ -42,6 +42,10 @@
 
 }
 
+.common-btn a{
+    color: var(--white);
+}
+
 @media (hover:hover) {
     .common-btn:hover {
         background-color: #da321f;
